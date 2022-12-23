@@ -233,7 +233,7 @@
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 8b7e7f05-1372-4d75-b1a5-f36c854a262b))
     (pad "2" thru_hole circle (at 5 0 90) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 5 "+12V") (pinfunction "Pin_2") (pintype "passive") (tstamp 77f511ba-f784-41b7-8e5a-9d6eee3c4397))
-    (model "${KIPRJMOD}/degson-dg305-series-5-0-7-5mm-terminal-block-pack-1.snapshot.3/DG305-5.0_7.5mm/STEP/DG305-5.0-xxP (pitch 5.0mm)/DG305-5.0-02P-12-00AH.STEP"
+    (model "${KIPRJMOD}/DG305-5.0-02P-12-00AH.STEP"
       (offset (xyz 7.5 -5 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
@@ -521,7 +521,7 @@
       (net 1 "/START") (pinfunction "Pin_1") (pintype "passive") (tstamp 42d75670-ab9f-422b-a5b8-6f6bb62c225a))
     (pad "2" thru_hole circle (at 5 0 270) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 4 "/RST") (pinfunction "Pin_2") (pintype "passive") (tstamp 3f9ed959-4808-4bc1-a8f1-c1fd6d52c42c))
-    (model "${KIPRJMOD}/degson-dg305-series-5-0-7-5mm-terminal-block-pack-1.snapshot.3/DG305-5.0_7.5mm/STEP/DG305-5.0-xxP (pitch 5.0mm)/DG305-5.0-02P-12-00AH.STEP"
+    (model "${KIPRJMOD}/DG305-5.0-02P-12-00AH.STEP"
       (offset (xyz 7.5 -5 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
@@ -778,10 +778,10 @@
       (net 5 "+12V") (pinfunction "2") (pintype "passive") (tstamp f34a1766-4104-422a-9bf6-5e697bfcfbf5))
     (pad "3" thru_hole circle (at 0 -5.08 270) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask)
       (net 10 "unconnected-(RV1-Pad3)") (pinfunction "3") (pintype "passive+no_connect") (tstamp 34fe2148-421e-4ae1-9372-e5f560eaaf21))
-    (model "${KIPRJMOD}/potentiometer--1.snapshot.1/Pot - RES_VAR1.STEP"
-      (offset (xyz 2.5 2.5 5))
+    (model "${KIPRJMOD}/Trimpot Horiz 5mm.step"
+      (offset (xyz 2.5 2.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -90))
+      (rotate (xyz 90 180 -90))
     )
   )
 
@@ -1159,8 +1159,8 @@
       (net 5 "+12V") (pinfunction "Pin_1") (pintype "passive") (tstamp 6b3c28f0-e284-4750-b1a4-613e9cc82ea3))
     (pad "2" thru_hole circle (at 5 0 270) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 8 "/Drain") (pinfunction "Pin_2") (pintype "passive") (tstamp 9c6e408b-4f41-429b-9ff7-712678e91eaf))
-    (model "${KIPRJMOD}/degson-dg305-series-5-0-7-5mm-terminal-block-pack-1.snapshot.3/DG305-5.0_7.5mm/STEP/DG305-5.0-xxP (pitch 5.0mm)/DG305-5.0-02P-12-00AH.STEP"
-      (offset (xyz 7.5 -5 -0.5))
+    (model "${KIPRJMOD}/DG305-5.0-02P-12-00AH.STEP"
+      (offset (xyz 7.5 -5 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
