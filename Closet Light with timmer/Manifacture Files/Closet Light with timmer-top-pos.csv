@@ -1,0 +1,16 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100nF","C_Disc_D6.0mm_W2.5mm_P5.00mm",48.500000,-44.000000,0.000000,top
+"C2","100nF","C_Disc_D6.0mm_W2.5mm_P5.00mm",89.500000,-53.000000,180.000000,top
+"C3","470uF","CP_Radial_D8.0mm_P5.00mm",59.000000,-36.000000,180.000000,top
+"J1","Power_In","TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal",40.700000,-39.500000,90.000000,top
+"J2","RST/Start","TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal",101.000000,-35.000000,-90.000000,top
+"J3","LEDs","TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal",101.050000,-47.750000,-90.000000,top
+"Q1","IRLB8721PBF","TO-220-3_Vertical",82.460000,-35.695000,0.000000,top
+"R1","10K","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",63.500000,-52.810000,90.000000,top
+"R2","10K","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",49.000000,-48.190000,-90.000000,top
+"R4","10K","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",80.500000,-41.190000,-90.000000,top
+"R5","10K","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",86.000000,-48.810000,90.000000,top
+"RV1","1M","Potentiometer_Bourns_3386F_Vertical",68.460000,-34.345000,-90.000000,top
+"SW1","RST","SW_PUSH_6mm",54.000000,-55.250000,90.000000,top
+"SW2","Start","SW_PUSH_6mm",39.750000,-55.250000,90.000000,top
+"U1","NE555P","DIP-8_W7.62mm",69.200000,-48.200000,0.000000,top
